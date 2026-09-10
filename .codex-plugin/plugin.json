@@ -28,6 +28,8 @@
     "websiteURL": "https://github.com/b-open-io/clawnet-bot",
     "defaultPrompt": [
       "Help me diagnose and repair a ClawNet bot fleet safely."
-    ]
+    ],
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png"
   }
 }
