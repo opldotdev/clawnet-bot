@@ -1,6 +1,6 @@
 {
   "name": "clawnet-bot",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "ClawNet bot operations skills with an optional Johnny custom-agent adapter for Codex",
   "author": {
     "name": "b-open-io",
